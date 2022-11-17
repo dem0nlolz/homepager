@@ -5,13 +5,13 @@ pageInfo:
   description: Hello there!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
+    path: https://github.com/dem0nlolz/homepager
   - title: Documentation
     path: https://dashy.to/docs
 
 # Optional app settings and configuration
 appConfig:
-  theme: colorful
+  theme: matrix-red
 
 # Main content - An array of sections, each containing an array of items
 sections:
